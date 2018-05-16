@@ -1,0 +1,35 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.svg-icon {
+    width: 16px;
+    height: 16px;
+    display: inline-block;
+    padding-right: 5px;
+}
+
+.wrapper {
+    width: 900px;
+}
+
+img {
+    max-width: 90%;
+}
+
+header, footer {
+    width: 350px;
+    ul {
+        width: 350px;
+    }
+}
+
+@media print, screen and (max-height: 800px) {
+    header, section, footer {
+        float: none;
+        position: static;
+        height: auto;
+    }
+}
+

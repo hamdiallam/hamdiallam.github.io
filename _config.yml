@@ -1,0 +1,27 @@
+# user options
+title: Hamdi Allam, Black Rick
+description: My personal website. Portoflio, projects, blog
+social:
+    name: Hamdi Allam
+    links:
+        - https://twitter.com/allam_hamdi
+        - https://facebook.com/hamllam97
+        - https://linkedin.com/in/hamdiallam
+        - https://instagram.com/hamdi.allam
+        - https://github.com/hamdallam
+
+github: 
+    owner_url: https://www.github.com/hamdiallam
+    is_user_page: true
+
+logo: /assets/collage.jpg
+linkedin_username: hamdiallam
+github_username: hamdiallam
+twitter_username: allam_hamdi
+facebook_username: hallam97
+instagram_username: hamdi.allam
+
+# build
+theme: jekyll-theme-minimal
+show_downloads: false
+google_analytics: UA-119139302-1
