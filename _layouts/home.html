@@ -28,7 +28,7 @@ layout: default
 
     {%- if site.posts.size > 0 -%}
         <ul class="post-list">
-          {%- for post in site.posts -%}
+          {%- for post in site.posts | reversed -%}
           <li>
             {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
             <small>{{ post.date | date: date_format }}</small>

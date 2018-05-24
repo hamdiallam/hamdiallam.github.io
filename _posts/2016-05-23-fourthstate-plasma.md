@@ -50,24 +50,24 @@ Contributing guidelines are laid out in the respective repos in the organization
 
 FourthState research repo:
 
-https://github.com/fourthstate/plasma-research
+[https://github.com/fourthstate/plasma-research]
 
 FouthState organization repo:
 
-https://github.com/fourthstate
+[https://github.com/fourthstate]
 
 Plasma whitepaper by Joseph Poon and Vitalik Buterin:
 
-https://plasma.io/plasma.pdf
+[https://plasma.io/plasma.pdf]
 
 Brief overview of the plasma MVP spec by Vitalik Buterin:
 
-https://ethresear.ch/t/minimal-viable-plasma/426
+[https://ethresear.ch/t/minimal-viable-plasma/426]
 
 Blockchain at Berkeley’s public slack:
 
-https://berkeleyblockchain.slack.com
+[https://berkeleyblockchain.slack.com]
 
 Ethereum foundation May 2018 cohort for grants:
 
-https://blog.ethereum.org/2018/05/02/announcing-may-2018-cohort-ef-grants/
+[https://blog.ethereum.org/2018/05/02/announcing-may-2018-cohort-ef-grants/]
