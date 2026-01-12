@@ -7,7 +7,7 @@ title: LaHacks [Bad Mistakes]
 <br />
 
 ## Our Project
->A mobile application that utilized the phone’s camera to provide audio feedback to the user about their surroundings.
+A mobile application that utilized the phone’s camera to provide audio feedback to the user about their surroundings.
 The application was targeted towards the visually impaired to enrich their visual experience.
 We used machine learning provided by Microsoft Cognitive Services and IBM Watson to analyze the photos that were taken every other second by the app.
 

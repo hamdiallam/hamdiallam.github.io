@@ -3,7 +3,7 @@ layout: post
 title: HackDavis [Success]
 ---
 
-![HackDavis]({{ "/assets/screenshots/hackdavis.jpg" | absolute_url }})
+![HackDavis](/assets/screenshots/hackdavis.jpg)
 
 Project Submission on [Devpost](https://devpost.com/software/speakrserver)
 
