@@ -1,11 +1,13 @@
 ---
-layout: home
+layout: default
 ---
 
+# Hamdi Allam
+<p class="links"><a href="https://github.com/hamdiallam">GitHub</a> · <a href="https://twitter.com/allam_hamdi">Twitter</a> · <a href="https://linkedin.com/in/hamdiallam">LinkedIn</a></p>
 
-# Notable Work
-
-## [Fourthstate Labs](https://github.com/fourthstate)
->One of the founders for this organization to bring scalability to blockchains. Currently Implementing the plasma mvp spec.
-
-# Posts
+{% for post in site.posts %}
+<div class="post-item">
+<small>{{ post.date | date: "%B %-d, %Y" }}</small>
+<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+</div>
+{% endfor %}

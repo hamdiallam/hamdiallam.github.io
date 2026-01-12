@@ -9,8 +9,8 @@ Project Submission on [Devpost](https://devpost.com/software/speakrserver)
 
 
 ## Our Project
-> web app that provides users with live feedback on presentational and communication skills during practice.
-The Software takes into account facial expressions, tone of voice, choice of words, and many other things during practice.
+Web app that provides users with live feedback on presentational and communication skills during practice.
+The software takes into account facial expressions, tone of voice, choice of words, and many other things during practice.
 My role in this project was to develop the backend server
 
 ## Learning from past mistakes
@@ -28,7 +28,7 @@ in which we were met with very positive feedback! In the end we won two Awards!
 1. IBM – Best Use of IBM Watson Technology
 2. MLH – Best Beginner Hack
 
-Learning from my previous mistakes was a big help. As a developer, this project really pushed my skills. It was the fLearning from my previous mistakes was a big help.
-As a developer, this project really pushed my skills. It was the first time I developed a server solo; implemented in JAVA. My communication skills also improved!
-I was the main spokesman for the project and many Judges noted the soft skills. I believe that my past experiences such as being on-stage at LaHacks has built up my confidence.
+Learning from my previous mistakes was a big help. As a developer, this project really pushed my skills. It was the fun learning from my previous mistakes.
+As a developer, this project really pushed my skills. It was the first time I developed a server solo; implemented in Java. My communication skills also improved!
+I was the main spokeperson for the project and many judges noted the soft skills. I believe that my past experiences such as being on-stage at LaHacks has built up my confidence.
 I firmly believed in the success of our project and the Judges sensed that. Building the product is one thing, but the process of communicating it to others is just as important.
